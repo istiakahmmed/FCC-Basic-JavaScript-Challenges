@@ -1,1 +1,1 @@
-# FCC_Js_Algo
+# FCC_Basic_JavaScript_Challenges
