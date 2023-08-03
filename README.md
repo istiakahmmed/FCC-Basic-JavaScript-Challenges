@@ -1,1 +1,1 @@
-# FCC_Basic_JavaScript_Challenges
+# Basic JavaScript(ECMA Script) challenges has been completed here
